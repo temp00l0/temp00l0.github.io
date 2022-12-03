@@ -149,7 +149,7 @@ body .fourth {
 body .fourth #compiler {
   height: 25vw;
   position: relative;
-  top: 21.8vw;
+  top: 0vw;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -196,8 +196,8 @@ body .fourth #compiler::-webkit-scrollbar {
 }
 body .fourth #place2 {
   font-family: "Alexandria";
-  position: absolute;
-  top: 130vw;
+  position: relative;
+  top: 10vw;
   left: 12vw;
   text-shadow: 0.3vw 0.3vw 0.5vw black;
 }
@@ -238,8 +238,8 @@ body .fifth #place3 {
 body .fifth #place3 a {
   color: white;
   text-decoration: none;
-  position: absolute;
-  top: 188vw;
+  position: relative;
+  top: -35vw;
   left: 6.5vw;
 }
 body .fifth #place3 a:hover {
